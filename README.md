@@ -155,23 +155,18 @@ These results reflect the implementation evidence collected during the project.
 ## Deployment Evidence
 
 ### EC2 Instance
-
 ![EC2 Instance](screenshots/ec2_instance.png)
 
 ### Nginx Webpage
-
 ![Nginx Webpage](screenshots/nginx_webpage.png)
 
 ### S3 Upload Verification
-
 ![S3 Upload](screenshots/s3_upload.png)
 
 ### CloudWatch CPU Metrics
-
 ![CloudWatch Metrics](screenshots/cloudwatch_metrics.png)
 
 ### CloudWatch Alarm
-
 ![CloudWatch Alarm](screenshots/cloudwatch_alarm.png)
 
 ## Troubleshooting
